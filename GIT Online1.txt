@@ -1,0 +1,26 @@
+Stage1:
+scm = source code management
+Tools : SVN,Git,Bitbucket,TFS etc...
+what is Repository?
+Branches  and Advantages ?
+Branch types: 1. Develop branch
+2. release branch
+3. bugfix branch
+4. feature branch etc....
+what is merge?
+Permissions: Read, Write, merge, Admin rights.
+what git?
+what is git-hub ?
+what is git-bash ?
+what is SCM workflow & Git Workflow?
+create git hub account : 1. goto google
+2. Git hub account login
+3. create new account
+4. goto email & verify the account
+5. login into account and check it is working or not.
+6. download git bash for windows and install?
+Link: https://git-scm.com/download/win
+Difference between git & bitbucket?
+How to find changes in git: 1. Commit id, Email id, Date & Time, Name, Message etc...
+what is git tag?
+what is git staging area?
